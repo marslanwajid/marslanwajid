@@ -6,13 +6,13 @@ Experienced Front-End Developer with 1 year of expertise in JavaScript. Proficie
 ## 👀 I’m interested in ...
 - Front-End Development
 - JavaScript Frameworks
-- UI/UX Design
+- AI Prompting
 - Open Source Projects
 
 ## 🌱 I’m currently learning ...
 - Advanced React
-- TypeScript
-- GraphQL
+- Adcnaced JavaScript 
+- Prompt Engineering
 - Web Accessibility Best Practices
 
 ## 💞️ I’m looking to collaborate on ...
