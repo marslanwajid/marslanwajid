@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @marslanwajid
 
 ## Summary
-Experienced Front-End Developer with 1 year of expertise in JavaScript. Proficient in React. Collaborative team player with a keen eye for design. Eager to contribute to innovative projects.
+Experienced Front-End Developer with 2 years of expertise. Proficient in React and NextJs. Collaborative team player with a keen eye for design. Eager to contribute to innovative projects.
 
 ## 👀 I’m interested in ...
 - Front-End Development
