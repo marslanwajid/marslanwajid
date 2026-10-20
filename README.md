@@ -1,96 +1,49 @@
-# 👋 Hi, I’m @marslanwajid
+# Hi, I'm Muhammad Arslan Wajid 👋
 
-## Summary
-Experienced Front-End Developer with 2 years of expertise. Proficient in React and NextJs. Collaborative team player with a keen eye for design. Eager to contribute to innovative projects.
+**Full Stack Developer** · React, Next.js & TypeScript · Headless WordPress & WooCommerce · Custom plugins & API integrations
+📍 Faisalabad, Pakistan · 🌍 Open to remote roles
 
-## 👀 I’m interested in ...
-- Front-End Development
-- JavaScript Frameworks
-- AI Prompting
-- Open Source Projects
+I build fast, SEO-friendly web apps with React, Next.js and TypeScript, plus custom WordPress and WooCommerce solutions in PHP. I have 3+ years of experience shipping headless Next.js front ends on WordPress and Node backends, real estate sites with live listing feeds, two-way product and order sync plugins for European eCommerce stores, and a React Native + Next.js streaming platform on Supabase.
 
-## 🌱 I’m currently learning ...
-- Advanced React
-- Adcnaced JavaScript 
-- Prompt Engineering
-- Web Accessibility Best Practices
+## 🛠 Tech stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,sass,nodejs,express,php,mongodb,postgres,supabase,mysql,wordpress,git,githubactions,cloudflare,vercel,figma&perline=10" alt="Tech stack icons" />
+</p>
 
-## 💞️ I’m looking to collaborate on ...
-- Front-End Development Projects
-- Open Source Contributions
-- Innovative Web Applications
-- Design Systems
+**Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Redux, Zustand, Tailwind CSS, SASS, HTML5, CSS3
+**Backend:** Node.js, Express, PHP, REST APIs, MongoDB, PostgreSQL (Supabase), MySQL
+**CMS & eCommerce:** WordPress (custom themes & plugins), WooCommerce, Headless WordPress, Shopify, Webflow, Joomla, Elementor
+**Mobile:** React Native
+**Tools:** Git, GitHub Actions, Cloudflare, Vercel, Stripe, Jest, Figma
 
-## 📫 How to reach me ...
-- **Email:** wajidmarslan@gmail.com
-- **Phone:** +92-315-6611804
-- **GitHub:** [marslanwajid](https://github.com/marslanwajid)
-- **Location:** Faisalabad, Pakistan
+## 🚀 Featured projects
+- **[Tuitility](https://tuitility.vercel.app/)**: a free multi-tool web platform with calculators, converters and everyday utilities, built with Next.js and TypeScript. ([code](https://github.com/marslanwajid/Tuitility))
+- **[Portfolio](https://pixelcodewizard.vercel.app/)**: my personal site, built on a headless CMS (React + WordPress).
+- **[Cargo Management System](https://cargoms.vercel.app)**: an invoice management system for a cargo company.
+- **[Webpify](https://github.com/marslanwajid/Webpify)**: a WordPress plugin that converts JPG, PNG, GIF, BMP and AVIF images to optimized WebP, automatically on upload or in bulk.
 
-## 😄 Pronouns: ...
-- He/Him
+## 💼 Experience
+- **Full Stack Developer**, IT Empire, Nov 2025 to present (full-time)
+- **CMS Developer**, Tauronic (Czech Republic, remote), Feb 2025 to present (part-time, project-based)
+- **Full Stack Developer**, Digital Optimisers, May 2025 to Nov 2025
+- **Junior Full Stack Developer**, Systems Dash Ltd, Aug 2024 to May 2025
 
-## ⚡ Fun fact: ...
-- I love to explore new design trends and incorporate them into my projects.
+## 🎓 Education & certifications
+- MSc Computer Science, Government College University Faisalabad
+- Full Stack Web Development (MERN), NAVTTC / NSIS
+- React JS Developer, W3Schools · Crash Course on Python, Coursera
 
-## Experience
+## 📊 GitHub stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marslanwajid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanwajid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=marslanwajid&theme=tokyonight&hide_border=true&background=0b1220" alt="GitHub streak" />
+</p>
+<p align="left">
+  <img width="100%" src="https://ghchart.rshah.org/2f81f7/marslanwajid" alt="Contribution chart" />
+</p>
 
-### Remote Work
-**Elpha Tech**  
-*Web Developer*  
-*01/2024 - Present*  
-- Maintaining and updating the website.
-- Ensuring website functionality and implementing updates.
-- Enhancing user experience.
-
-### Front-End Developer
-**Digital Bolt**  
-*07/2023 - 12/2023*  
-- Developed user interfaces and dynamic web applications.
-- Utilized HTML, CSS, SCSS, Bootstrap, JavaScript ES6, React, Redux, and Next.js.
-
-### Internie
-**Ibrahim Fibres Limited**  
-*05/2023 - 06/2023*  
-- Assisted with network management, troubleshooting, and software implementation.
-- Participated in market research, strategy development, and promotional campaigns.
-
-## Education
-
-### MSc Computer Science
-**Government College University Faisalabad**  
-*10/2020 - 08/2022*  
-
-### Associate Degree in Computer Science
-**University of Central Punjab**  
-*08/2018 - 09/2020*  
-
-## Certificates
-- **Full Stack Web Development (MERN STACK)**  
-  *10/2023 - 01/2024*  
-  [NSIS NAVTTC](https://nsis.navttc.gov.pk/)
-  
-- **Crash Course on Python**  
-  *10/2023 - 01/2024*  
-  [Coursera](https://coursera.org)
-
-## Skills
-- **Bootstrap 5:** Advanced
-- **PHP:** Intermediate
-- **Microsoft Office:** Expert
-- **Electron JS:** Intermediate
-- **Python:** Intermediate
-- **Tailwind CSS:** Advanced
-- **ES6:** Advanced
-- **Express:** Advanced
-- **Node JS:** Advanced
-- **jQuery:** Expert
-- **WordPress:** Advanced
-- **Redux:** Advanced
-- **SCSS, SASS:** Expert
-- **JavaScript:** Expert
-- **React:** Advanced
-
-## Languages
-- **English:** Native
-- **Urdu:** Native
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/arslan-wajid/) · [Portfolio](https://pixelcodewizard.vercel.app/) · [Email](mailto:wajidmarslan@gmail.com)
