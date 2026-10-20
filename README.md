@@ -33,13 +33,10 @@ I build fast, SEO-friendly web apps with React, Next.js and TypeScript, plus cus
 - Full Stack Web Development (MERN), NAVTTC / NSIS
 - React JS Developer, W3Schools · Crash Course on Python, Coursera
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marslanwajid&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=marslanwajid&theme=tokyonight&hide_border=true&background=0b1220" alt="GitHub streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanwajid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Top languages" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=marslanwajid&theme=tokyonight&hide_border=true&background=0b1220" alt="GitHub streak" />
 </p>
 <p align="left">
   <img width="100%" src="https://ghchart.rshah.org/2f81f7/marslanwajid" alt="Contribution chart" />
