@@ -35,7 +35,7 @@ I build fast, SEO-friendly web apps with React, Next.js and TypeScript, plus cus
 
 ## 📊 GitHub stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marslanwajid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marslanwajid&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanwajid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Top languages" />
 </p>
 <p align="left">
